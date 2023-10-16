@@ -201,6 +201,7 @@ img {
 .home__title {
   font-size: var(--big-font-size);
   margin-bottom: var(--mb-5);
+  margin-left: -20px;
 }
 
 .home__title-color {
@@ -328,6 +329,14 @@ img {
 }
 
 .skills__js {
+  width: 60%;
+}
+
+.skills_react {
+  width: 40%;
+}
+
+.skills_react-native {
   width: 35%;
 }
 
@@ -336,7 +345,7 @@ img {
 }
 
 .skills__django {
-  width: 25%;
+  width: 65%;
 }
 
 .skills__img {
